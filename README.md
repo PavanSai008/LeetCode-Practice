@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,8 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
