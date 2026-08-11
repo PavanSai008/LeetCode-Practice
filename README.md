@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Indexed Tree
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
