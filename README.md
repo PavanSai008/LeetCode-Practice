@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
@@ -192,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
