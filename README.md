@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
