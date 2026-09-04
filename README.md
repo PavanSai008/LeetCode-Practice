@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
