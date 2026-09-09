@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
