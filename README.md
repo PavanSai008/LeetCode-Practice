@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0018-4sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
