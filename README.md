@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 ## Manacher
