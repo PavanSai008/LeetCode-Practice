@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
