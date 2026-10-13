@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
