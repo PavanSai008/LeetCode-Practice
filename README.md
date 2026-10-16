@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0056-merge-intervals) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
