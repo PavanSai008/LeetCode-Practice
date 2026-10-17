@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
