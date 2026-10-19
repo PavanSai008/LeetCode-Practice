@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
