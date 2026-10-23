@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 ## Manacher
 |  |
 | ------- |
