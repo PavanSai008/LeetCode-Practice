@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 ## Manacher
@@ -364,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
