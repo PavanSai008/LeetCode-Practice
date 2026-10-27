@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
