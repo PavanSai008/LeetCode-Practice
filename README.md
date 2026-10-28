@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 ## Manacher
 |  |
