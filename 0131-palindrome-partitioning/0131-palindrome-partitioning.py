@@ -1,21 +1,23 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        res=[]
-        path=[]
+        n=len(s)
+        ans=[]
+        part=[]
+        def ispal(i,j):
+            while i<j:
+                if s[i]!=s[j]:
+                    return False
+                i,j=i+1,j-1
+            return True
         def solve(i):
-            if i>=len(s):
-                res.append(path.copy())
+            if i>=n:
+                ans.append(part.copy())
                 return
-            for j in range(i,len(s)):
-                if self.pali(s,i,j):
-                    path.append(s[i:j+1])
+            for j in range(i,n):
+                if ispal(i,j):
+                    part.append(s[i:j+1])
                     solve(j+1)
-                    path.pop()
+                    part.pop()
         solve(0)
-        return res
-    def pali(self,s,i,j):
-        while i<j:
-            if s[i]!=s[j]:
-                return False
-            i,j=i+1,j-1
-        return True
+        return ans
+               
