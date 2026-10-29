@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
