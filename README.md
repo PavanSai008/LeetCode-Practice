@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+| [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
