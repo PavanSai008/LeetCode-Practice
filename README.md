@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 ## Manacher
