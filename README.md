@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
 | [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
+| [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
