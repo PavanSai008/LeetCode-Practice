@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0229-majority-element-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -476,4 +478,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
