@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Greedy
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
