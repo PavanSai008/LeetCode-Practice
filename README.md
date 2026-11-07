@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Greedy
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
