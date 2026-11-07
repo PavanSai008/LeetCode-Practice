@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0567-permutation-in-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0455-assign-cookies) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
