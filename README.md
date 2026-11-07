@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
