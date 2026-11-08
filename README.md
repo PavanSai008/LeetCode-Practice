@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1306-jump-game-iii) |
 ## Memoization
 |  |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1306-jump-game-iii) |
 ## Complete Knapsack
 |  |
@@ -529,4 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0649-dota2-senate) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
