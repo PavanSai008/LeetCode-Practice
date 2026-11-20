@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0231-power-of-two) |
