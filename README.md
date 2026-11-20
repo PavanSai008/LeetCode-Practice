@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1922-count-good-numbers) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0260-single-number-iii) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
