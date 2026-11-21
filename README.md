@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1046-last-stone-weight](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
