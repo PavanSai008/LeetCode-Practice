@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1306-jump-game-iii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0741-cherry-pickup) |
 | [0887-super-egg-drop](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0887-super-egg-drop) |
 | [1048-longest-string-chain](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -484,10 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
