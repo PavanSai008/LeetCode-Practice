@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanSai008/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/PavanSai008/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PavanSai008/LeetCode-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
