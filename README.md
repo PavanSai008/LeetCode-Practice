@@ -559,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/PavanSai008/LeetCode-Practice/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
